@@ -1,0 +1,1 @@
+{"StationId":"Station1","EventType":"Bottle Turn-In","BottleCount":1,"CanCount":0,"VoucherAmount":3,"Timestamp":"2024-08-19T19:34:10.6074928Z"}
